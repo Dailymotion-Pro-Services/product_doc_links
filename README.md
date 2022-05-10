@@ -12,6 +12,7 @@
   - [In-video Call to Action](https://dmvs-apac.github.io/custom-embed-v2/ctacard)
   - [Info-card](https://dmvs-apac.github.io/custom-embed-v2/info_card)
   - [ShowCollection](https://dmvs-apac.github.io/custom-embed-v2/show_collection)
+  - [Manage Custom Embed for Heavy Ad]https://dmvs-apac.github.io/custom-embed-v2/heavy_ad
   
 - [Dynamic Previews](https://www.canva.com/design/DAEGDbSibZE/cvoKs-MEOdq3paAehFLkbQ/view?website#4:l-equipe-case)
   - [Dailymotion Story](https://dmvs-apac.github.io/dynamic-preview/story)
