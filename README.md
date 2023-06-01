@@ -23,3 +23,7 @@
 - [Dailymotion Video Tiles](https://dmvs-apac.github.io/dm-video-tiles-doc)
 
 - [Recommending playlist pre-set website section](https://dmvs-apac.github.io/custom-embed-v2/recommend_playlist)
+
+- [DM-Video-Collection](https://dmvs-apac.github.io/custom-embed-v2/dm-video-collection)
+
+- [Universal Advance Search](https://dmvs-apac.github.io/dm-search-iframe-doc/)
