@@ -26,4 +26,4 @@
 
 - [DM-Video-Collection](https://dmvs-apac.github.io/custom-embed-v2/dm-video-collection)
 
-- [Universal Advance Search](https://dmvs-apac.github.io/dm-universal-advance-search-doc/)
+- [Video Finder Pro](https://dmvs-apac.github.io/dm-universal-advance-search-doc/)
