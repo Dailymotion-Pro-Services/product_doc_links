@@ -19,6 +19,7 @@
   
 - [Dynamic Previews](https://www.canva.com/design/DAEGDbSibZE/cvoKs-MEOdq3paAehFLkbQ/view?website#4:l-equipe-case)
   - [Dailymotion Story](https://dmvs-apac.github.io/dynamic-preview/story)
+    - [Connect player from Dailymotion Story to Google Analytics 4 (GA4)](https://dmvs-apac.github.io/dynamic-preview/connect-story-to-ga)
   - [Dailymotion Previews](https://dmvs-apac.github.io/dynamic-preview/player)
   
 - [Dailymotion Video Tiles](https://dmvs-apac.github.io/dm-video-tiles-doc)
