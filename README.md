@@ -30,3 +30,6 @@
 
 - [Video Finder Pro](https://dmvs-apac.github.io/dm-video-finder-pro-doc/)
 - [Vertical PiP Sample](https://dmvs-apac.github.io/custom-embed-v2/vertical-pip)
+---
+## Other github pages
+- [Autoplay Checker](https://dmvs-apac.github.io/autoplay-checker/)
