@@ -28,7 +28,8 @@
 
 - [DM-Video-Collection](https://dmvs-apac.github.io/custom-embed-v2/dm-video-collection)
 
-- [Video Finder Pro](https://dmvs-apac.github.io/dm-video-finder-pro-doc/)
+- [Video Finder Pro](https://dmvs-apac.github.io/dm-video-finder-doc/)
+  - [Embed Instruction from Video Finder]([)](https://dmvs-apac.github.io/dm-video-finder-doc/embed-player)
 - [Vertical PiP Sample](https://dmvs-apac.github.io/custom-embed-v2/vertical-pip)
 ---
 ## Other github pages
