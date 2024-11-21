@@ -17,7 +17,7 @@
   - [Connect player from Custom Embed to Google Analytics 4 (GA4)](https://dailymotion-pro-services.github.io/custom-embed-v2/connect-to-google-analytics)
   - [Set Thumbnail before `ad_start`/`video_start`](https://dailymotion-pro-services.github.io/custom-embed-v2/thumbnail_before_adstart_videostart)
   
-- [Dynamic Previews](https://www.canva.com/design/DAEGDbSibZE/cvoKs-MEOdq3paAehFLkbQ/view?website#4:l-equipe-case)
+- [Dynamic Previews](https://www.canva.com/design/DAEGDbSibZE/cvoKs-MEOdq3paAehFLkbQ/view?website#4:l-equipe-case) | [Playground](https://staging.dmvs-apac.com/dynamic-preview-playground/index.html#dmlkPXgzMWY2M20=)
   - [Dailymotion Story](https://dailymotion-pro-services.github.io/dynamic-preview/story)
     - [Connect player from Dailymotion Story to Google Analytics 4 (GA4)](https://dailymotion-pro-services.github.io/dynamic-preview/connect-story-to-ga)
   - [Dailymotion Previews](https://dailymotion-pro-services.github.io/dynamic-preview/player)
